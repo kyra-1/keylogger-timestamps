@@ -1,4 +1,4 @@
-# Keylogger-Timestamping
+# Keylogger-Timestamps
 
 ## Introduction
 
