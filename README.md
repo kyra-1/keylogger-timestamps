@@ -9,7 +9,12 @@ Keylogger-Timestamping is a simple keylogger built using Python. It logs every k
 * Logs every keystroke with a timestamp.
 * Uses the `pynput` library for keyboard monitoring.
 * Stores logs in a human-readable format.
+  
+## Problem Statement Solved
 
+In environments where user activity needs to be monitored for security reasons, such as public computers or shared workspaces, there may be concerns about unauthorized usage when the device is left unattended. Additionally, in situations where physical peripherals (like the trackpad or mouse) are disabled or disconnected, monitoring keyboard usage can help track interactions.
+
+This keylogger helps solve this problem by recording every keystroke along with a timestamp, allowing users to review activity and detect any unauthorized access. It can also serve as a lightweight monitoring tool when you leave your device unattended, giving you insights into whether the device was accessed during your absence.   
 ## Prerequisites
 
 * Python 3.x
