@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Keylogger-Timestamping is a simple keylogger built using Python. It logs every key pressed on the keyboard along with a timestamp, saving the information to a text file named `simple_keylog.txt`. This tool is created for educational and ethical use only. Always ensure you have permission before running it on any machine.
+Keylogger-Timestamps is a simple keylogger built using Python. It logs every key pressed on the keyboard along with a timestamp, saving the information to a text file named `simple_keylog.txt`. This tool is created for educational and ethical use only. Always ensure you have permission before running it on any machine.
 
 ## Features
 
@@ -25,8 +25,8 @@ This keylogger helps solve this problem by recording every keystroke along with 
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/keylogger-timestamping.git
-cd keylogger-timestamping
+git clone https://github.com/yourusername/keylogger-timestamps.git
+cd keylogger-timestamps
 ```
 
 Install the required library:
